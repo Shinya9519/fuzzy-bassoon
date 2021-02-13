@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#　指定したpath内のファイルをすべてS3noバケットにUPloadする
+#　指定したpath内のファイルをすべてS3のバケットにUPloadする
 import boto3
 import os
 
